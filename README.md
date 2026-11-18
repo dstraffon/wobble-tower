@@ -6,8 +6,9 @@ A small physics game: stack smiley blocks on a tiny island and see how high you 
 
 ## How to play
 
-- Drag the block from the Next slot (or press anywhere in the sky) and let go to drop it.
-- Rotate with the round buttons, the arrow keys, A/D, or the scroll wheel. You can rotate while holding a block.
+- Drag the block up from the Next slot and let go to drop it.
+- Rotate with the round buttons, or on a phone put a second finger down while holding a block and twist. On a computer, use the left and right arrow keys, A/D, or the scroll wheel while holding.
+- Drag the sky (or use the scroll wheel, up/down arrows, W/S) to look up and down the tower. Holding a block near the top or bottom edge scrolls too. Tap Back to top to follow the tower again.
 - Tap Hold (or press H) to stash a block and swap it back in later.
 - Your score is the tower's peak height in metres. Each block that splashes costs a heart.
 
